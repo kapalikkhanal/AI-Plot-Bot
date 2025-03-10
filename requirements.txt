@@ -1,0 +1,5 @@
+tkinter
+pyserial
+google-generativeai
+matplotlib
+pillow
